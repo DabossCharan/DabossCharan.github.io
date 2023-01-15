@@ -1,0 +1,11 @@
+﻿html {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+body
+{
+    height: 100%;
+}
+
