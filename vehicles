@@ -72,10 +72,12 @@
     
     <div class="main-content">
         <section>
-            <h>Beyond</h>
-            <p>Go <strong>Beyond</strong> the Earth!</p>
+            <h>Vehicles</h>
+            <p>The vehicle used to take participants to space will be the <strong>Space Cruiser 2000</strong>, the newest model of space-faring craft.</p>
         </section>
-
+        <section>
+            <p>The Space Cruiser 2000 is 314 feet long, which is a little over a football field long. This provides a comfortable living environment for up to two dozen people to enjoy the views of space.</p>
+        </section>
         <!--
         <section class="contact-section">
             <div class="container mobile-center">

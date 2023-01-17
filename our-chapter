@@ -72,8 +72,16 @@
     
     <div class="main-content">
         <section>
-            <h>Beyond</h>
-            <p>Go <strong>Beyond</strong> the Earth!</p>
+            <h>Our Chapter</h>
+            <p>Our chapter is alright I guess. Here are our mediocre officers:
+                <ul>
+                    <li>President</li>
+                    <li>Vice President</li>
+                    <li>Treasurer</li>
+                    <li>Secretary</li>
+                    <li>Some other useless people</li>
+                </ul>
+            </p>
         </section>
 
         <!--

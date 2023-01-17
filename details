@@ -72,10 +72,11 @@
     
     <div class="main-content">
         <section>
-            <h>Beyond</h>
-            <p>Go <strong>Beyond</strong> the Earth!</p>
+            <h>Details</h>
         </section>
-
+        <section>
+            <p>Much thought has been put into the details of this program.</p>
+        </section>
         <!--
         <section class="contact-section">
             <div class="container mobile-center">

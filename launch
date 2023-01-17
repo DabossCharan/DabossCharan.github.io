@@ -72,8 +72,12 @@
     
     <div class="main-content">
         <section>
-            <h>Beyond</h>
-            <p>Go <strong>Beyond</strong> the Earth!</p>
+            <h>Launch</h>
+            <p>The spacecraft is designed to launch in a way that minimizes the G-forces the passengers experience.</p>
+        </section>
+        <section>
+            <h>Recovery</h>
+            <p>At the end of the exciting journey, the spacecraft will crash--I mean, land, in the ocean where an airplane will be waiting to take passengers back to base. This ensures a quick and easy recovery.</p>
         </section>
 
         <!--
